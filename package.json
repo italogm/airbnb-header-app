@@ -1,0 +1,16 @@
+{
+  "name": "airbnbwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "httpserver": "^0.3.0"
+  }
+}
